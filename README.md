@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ianamika27
 - 👀 I’m interested in development
-- 🌱 I’m currently learning ReactJS and AI/ML
-- 💞️ I’m looking to collaborate on any java,node.js projects
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ReactJS.
+- 💞️ I’m looking to collaborate on any nodejs,reactjs projects
+- 📫 Write to me - anamikait27@gmail.com
 
 <!---
 ianamika27/ianamika27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
